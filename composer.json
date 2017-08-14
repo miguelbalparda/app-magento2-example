@@ -29,6 +29,7 @@
         "magento/module-review-sample-data": "100.1.*",
         "magento/module-swatches-sample-data": "100.1.*",
         "magento/sample-data-media": "100.1.*",
+        "vpietri/adm-quickdevbar": "@stable",
         "magento/module-offline-shipping-sample-data": "100.1.*"
     },
     "require-dev": {
